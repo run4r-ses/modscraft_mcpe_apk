@@ -1,8 +1,8 @@
 ## Minecraft 1.21 APKs
 | Download | Size |
 |----------|------|
-| [:package: `minecraft-1-21-124-02-xbox.apk`](https://modscraft.net/en/downloads/17637) | :floppy_disk: 679.68 Mb 
-| [:package: `minecraft-1-21-124-02-xbox-compressed.apk`](https://modscraft.net/en/downloads/17638) | :floppy_disk: 403.89 Mb 
-| [:package: `minecraft-1-21-124-02-clone-xbox.apk`](https://modscraft.net/en/downloads/17639) | :floppy_disk: 679.81 Mb 
-| [:package: `minecraft-1-21-124-02-clone-xbox-compressed.apk`](https://modscraft.net/en/downloads/17640) | :floppy_disk: 404.02 Mb 
-| [:package: `minecraft-1-21-124-02-x86-64-xbox.apk`](https://modscraft.net/en/downloads/17641) | :floppy_disk: 604.31 Mb 
+| [:package: `minecraft-1-21-130-03-xbox.apk`](https://modscraft.net/en/downloads/17780) | :floppy_disk: 690.72 Mb 
+| [:package: `minecraft-1-21-130-03-xbox-compressed.apk`](https://modscraft.net/en/downloads/17781) | :floppy_disk: 414.93 Mb 
+| [:package: `minecraft-1-21-130-03-clone-xbox.apk`](https://modscraft.net/en/downloads/17782) | :floppy_disk: 690.85 Mb 
+| [:package: `minecraft-1-21-130-03-clone-xbox-compressed.apk`](https://modscraft.net/en/downloads/17783) | :floppy_disk: 415.06 Mb 
+| [:package: `minecraft-1-21-130-03-x86-64-xbox.apk`](https://modscraft.net/en/downloads/17784) | :floppy_disk: 616.72 Mb 
